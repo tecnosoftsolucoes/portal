@@ -11437,7 +11437,7 @@ body {
   height: 100%;
   width: 100%;
   /* https://loading.io/animation/text/  para criar loading personalizado */
-  background: rgba(253, 253, 253, 0.5) url('/img/loading.gif') 50% 50% no-repeat;
+  background: rgba(253, 253, 253, 0.5) url('https://tecnosoft.com.br/img/loading.gif') 50% 50% no-repeat;
 }
 
 .bg-recusado {
@@ -11803,7 +11803,7 @@ content: "";
 
 .menu-sm{width:5rem; transition:all 0.8s;}
 
-.icone-menu-sm{background-image:  url(/img/icon-sm.svg);width: 74px !important;height: 74px;transition: all 0.8s;margin-left: 4px !important;}
+.icone-menu-sm{background-image:  url('https://tecnosoft.com.br/img/icon-sm.svg');width: 74px !important;height: 74px;transition: all 0.8s;margin-left: 4px !important;}
 
 .display{padding:0px !important;padding-left: 18px !important;transition:all 0.8s;}
 
@@ -12218,9 +12218,9 @@ content: "";
     color: #fff !important;
 }
 
-.tema-escuro > div > div > a > .icone-claro{background-image: url("/img/icon-escuro.svg");width: 204px !important;height: 56px !important;transition: all 0.8s;padding-left: 204px !important;margin-left: 16px !important;}
+.tema-escuro > div > div > a > .icone-claro{background-image: url("https://tecnosoft.com.br/img/icon-escuro.svg");width: 204px !important;height: 56px !important;transition: all 0.8s;padding-left: 204px !important;margin-left: 16px !important;}
 
-.tema-escuro > div > nav > a > .icone-menu{background-image: url(/img/logo-ts-menu.svg); width: 258px !important;height: 71px !important;transition:all 0.8s;}
+.tema-escuro > div > nav > a > .icone-menu{background-image: url('https://tecnosoft.com.br/img/logo-ts-menu.svg'); width: 258px !important;height: 71px !important;transition:all 0.8s;}
 
 /* ---------------------------------- TEMA CLARO ----------------------------------------- */
 
@@ -12605,8 +12605,8 @@ content: "";
     border-bottom: 1px solid #093854;
 }
 
-.tema-claro > div > div > a > .icone-claro{background-image: url("/img/icon-claro.svg");width: 204px !important;height: 56px !important;transition: all 0.8s;padding-left: 204px !important;margin-left: 16px !important;}
+.tema-claro > div > div > a > .icone-claro{background-image: url("https://tecnosoft.com.br/img/icon-claro.svg");width: 204px !important;height: 56px !important;transition: all 0.8s;padding-left: 204px !important;margin-left: 16px !important;}
 
-.tema-claro > div > nav > a > .icone-menu{background-image: url(/img/logo-ts-claro.svg); width: 258px !important;height: 71px !important;transition:all 0.8s;}
+.tema-claro > div > nav > a > .icone-menu{background-image: url('https://tecnosoft.com.br/img/logo-ts-claro.svg'); width: 258px !important;height: 71px !important;transition:all 0.8s;}
 
 
